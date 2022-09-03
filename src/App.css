@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  color: red;
+  background-color: aquamarine;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 15px;
+}
+.person{
+  color: darkviolet;
+  background-color: rosybrown;
+  padding: 15px;
+  margin: 10px;
+  border: 2px solid gray;
+  border-radius: 15px;
+}
